@@ -1,7 +1,7 @@
 +++
 title = 'Tech Notes 01'
 date = 2024-03-26T12:10:13+08:00
-draft = true
+draft = false
 +++
 
 >微信公众号排版工具。问题或建议，请公众号留言。**[程序员翻身](#jump_8)**
