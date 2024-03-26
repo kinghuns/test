@@ -1,9 +1,9 @@
 # Basic config
-baseURL = "https://example.com"
+baseURL = "https://kinghuns.github.io/test/"
 theme = "hugo-simple"
 languageCode = "en"                # zh-Hans
-title = "Hugo Simple"
-copyright = "© 2024 Shaolong Chen"
+title = "程序员的大航海时代"
+copyright = "© 2024 Jianjun Gao"
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
@@ -33,14 +33,14 @@ noClasses = true
 style = "catppuccin-mocha"
 
 [params]
-title = "Hugo Simple"
-description = "Hugo Simple Demo"
+title = "test01"
+description = "my blog demo"
 favicon = "images/favicon.png"
 dateFormat = "2006-01-02"
 hideMadeWithLine = false
 [params.author]
-name = "Shaolong Chen"
-email = "shaolong.chen@outlook.it"
+name = "Jianjun Gao"
+email = "gaojianjun2001@hotmail.com"
 
 [[menu.main]]
 name = "Home"
@@ -50,6 +50,11 @@ weight = 10
 name = "Blog"
 pageRef = "/blog"
 weight = 20
+[[menu.main]]
+name = "News"
+pageRef = "/news"
+weight = 20
+
 
 [services.rss]
 limit = 42
