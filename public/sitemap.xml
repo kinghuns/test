@@ -2,13 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/blog/</loc>
+    <loc>http://localhost:13471/test/</loc>
+    <lastmod>2024-03-27T14:00:17+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:13471/test/20240327_record/</loc>
+    <lastmod>2024-03-27T14:00:17+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:13471/test/blog/</loc>
+    <lastmod>2024-03-27T14:00:17+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:13471/test/news/</loc>
     <lastmod>2024-03-26T12:10:13+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>http://localhost:13471/test/news/tech-notes-01/</loc>
     <lastmod>2024-03-26T12:10:13+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tech-notes/</loc>
-    <lastmod>2024-03-26T12:10:13+08:00</lastmod>
+    <loc>http://localhost:13471/test/myfitstblog/</loc>
+    <lastmod>2024-03-26T10:06:06+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:13471/test/blog/css/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:13471/test/blog/html/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:13471/test/blog/markdown/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:13471/test/markdown-syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:13471/test/tags/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
 </urlset>
