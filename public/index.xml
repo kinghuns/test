@@ -2,20 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>程序员的大航海时代</title>
-    <link>http://localhost:13471/test/</link>
+    <link>https://kinghuns.github.io/test/</link>
     <description>Recent content on 程序员的大航海时代</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>gaojianjun2001@hotmail.com (Jianjun Gao)</managingEditor>
     <webMaster>gaojianjun2001@hotmail.com (Jianjun Gao)</webMaster>
     <copyright>© 2024 Jianjun Gao</copyright>
-    <lastBuildDate>Wed, 27 Mar 2024 14:00:17 +0800</lastBuildDate>
-    <atom:link href="http://localhost:13471/test/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Mar 2024 14:10:54 +0800</lastBuildDate>
+    <atom:link href="https://kinghuns.github.io/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20240328</title>
+      <link>https://kinghuns.github.io/test/20240328/</link>
+      <pubDate>Thu, 28 Mar 2024 14:10:54 +0800</pubDate><author>gaojianjun2001@hotmail.com (Jianjun Gao)</author>
+      <guid>https://kinghuns.github.io/test/20240328/</guid>
+      <description>2023.03.28 人工智能大模型和信息化产品的结合？ 如何去做？ 医疗信息的质控？各种线索都指向这一点。</description>
+      <content:encoded><![CDATA[<h2 id="20230328">2023.03.28</h2>
+<p>人工智能大模型和信息化产品的结合？
+如何去做？
+医疗信息的质控？各种线索都指向这一点。</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>20240327_Record</title>
-      <link>http://localhost:13471/test/20240327_record/</link>
+      <link>https://kinghuns.github.io/test/20240327_record/</link>
       <pubDate>Wed, 27 Mar 2024 14:00:17 +0800</pubDate><author>gaojianjun2001@hotmail.com (Jianjun Gao)</author>
-      <guid>http://localhost:13471/test/20240327_record/</guid>
+      <guid>https://kinghuns.github.io/test/20240327_record/</guid>
       <description>文学作品的品味 国外的经典小说系列：
 读一读托尔斯泰，《战争与和平》，《安娜 卡列尼娜》 和我国现状类似的是美国第二次工业革命时期，马克吐温的《镀金时代》，讲的就是类似的事情。 还有就是《嘉莉妹妹》，沪漂、北漂类似的时代。 练习：
 在大城市工作生活的体会。 </description>
@@ -34,9 +46,9 @@
     </item>
     <item>
       <title>Tech Notes 01</title>
-      <link>http://localhost:13471/test/news/tech-notes-01/</link>
+      <link>https://kinghuns.github.io/test/news/tech-notes-01/</link>
       <pubDate>Tue, 26 Mar 2024 12:10:13 +0800</pubDate><author>gaojianjun2001@hotmail.com (Jianjun Gao)</author>
-      <guid>http://localhost:13471/test/news/tech-notes-01/</guid>
+      <guid>https://kinghuns.github.io/test/news/tech-notes-01/</guid>
       <description>微信公众号排版工具。问题或建议，请公众号留言。程序员翻身
 建议使用 Chrome 浏览器，体验最佳效果。
 使用微信公众号编辑器有一个十分头疼的问题：粘贴出来的代码，格式错乱，空间小还带行号，而且特别丑。Markdown.com.cn编辑器能够解决这个问题。
@@ -291,9 +303,9 @@ $$</p>
     </item>
     <item>
       <title>MyFitstBlog</title>
-      <link>http://localhost:13471/test/myfitstblog/</link>
+      <link>https://kinghuns.github.io/test/myfitstblog/</link>
       <pubDate>Tue, 26 Mar 2024 10:06:06 +0800</pubDate><author>gaojianjun2001@hotmail.com (Jianjun Gao)</author>
-      <guid>http://localhost:13471/test/myfitstblog/</guid>
+      <guid>https://kinghuns.github.io/test/myfitstblog/</guid>
       <description>2024.03.26 Today is Tuesday.
 读一本好书，就是在和高尚的人谈话。 ——歌德</description>
       <content:encoded><![CDATA[<h2 id="20240326">2024.03.26</h2>
@@ -305,9 +317,9 @@ $$</p>
     </item>
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>http://localhost:13471/test/markdown-syntax/</link>
+      <link>https://kinghuns.github.io/test/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><author>gaojianjun2001@hotmail.com (Jianjun Gao)</author>
-      <guid>http://localhost:13471/test/markdown-syntax/</guid>
+      <guid>https://kinghuns.github.io/test/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.</p>
 <h2 id="headings">Headings</h2>
@@ -462,6 +474,71 @@ $$</p>
 </li>
 </ol>
 </div>]]></content:encoded>
+    </item>
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://kinghuns.github.io/test/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate><author>gaojianjun2001@hotmail.com (Jianjun Gao)</author>
+      <guid>https://kinghuns.github.io/test/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Lorem est tota propiore conpellat pectoribus de pectora summo.</p>
+<p>Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.</p>
+<ol>
+<li>Exierant elisi ambit vivere dedere</li>
+<li>Duce pollice</li>
+<li>Eris modo</li>
+<li>Spargitque ferrea quos palude</li>
+</ol>
+<p>Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.</p>
+<ol>
+<li>Comas hunc haec pietate fetum procerum dixit</li>
+<li>Post torum vates letum Tiresia</li>
+<li>Flumen querellas</li>
+<li>Arcanaque montibus omnes</li>
+<li>Quidem et</li>
+</ol>
+<h1 id="vagus-elidunt">Vagus elidunt</h1>
+<p><svg class="canon" xmlns="http://www.w3.org/2000/svg" overflow="visible" viewBox="0 0 496 373" height="373" width="496"><g fill="none"><path stroke="#000" stroke-width=".75" d="M.599 372.348L495.263 1.206M.312.633l494.95 370.853M.312 372.633L247.643.92M248.502.92l246.76 370.566M330.828 123.869V1.134M330.396 1.134L165.104 124.515"></path><path stroke="#ED1C24" stroke-width=".75" d="M275.73 41.616h166.224v249.05H275.73zM54.478 41.616h166.225v249.052H54.478z"></path><path stroke="#000" stroke-width=".75" d="M.479.375h495v372h-495zM247.979.875v372"></path><ellipse cx="498.729" cy="177.625" rx=".75" ry="1.25"></ellipse><ellipse cx="247.229" cy="377.375" rx=".75" ry="1.25"></ellipse></g></svg></p>
+<p><a href="https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon">The Van de Graaf Canon</a></p>
+<h2 id="mane-refeci-capiebant-unda-mulcebat">Mane refeci capiebant unda mulcebat</h2>
+<p>Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. <strong>Faces illo pepulere</strong> tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.</p>
+<p>Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae vulnus haerentia iuste et exercebat, sui et.</p>
+<p>Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel <strong>mitis temploque</strong> vocatus, inque alis, <em>oculos nomen</em> non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem Propoetides <strong>parte</strong>.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://kinghuns.github.io/test/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate><author>gaojianjun2001@hotmail.com (Jianjun Gao)</author>
+      <guid>https://kinghuns.github.io/test/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.</p>
+<p>In this example we will be using <a href="https://katex.org/">KaTeX</a></p>
+<ul>
+<li>Create a partial under <code>/layouts/partials/math.html</code></li>
+<li>Within this partial reference the <a href="https://katex.org/docs/autorender.html">Auto-render Extension</a> or host these scripts locally.</li>
+<li>Include the partial in your templates like so:</li>
+</ul>
+
+
+
+
+
+
+<div class="highlight"><pre tabindex="0" style="color:#cdd6f4;background-color:#1e1e2e;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f849c">1</span><span><span style="color:#89dceb;font-weight:bold">{{</span> <span style="color:#cba6f7">if</span> or .Params.math .Site.Params.math <span style="color:#89dceb;font-weight:bold">}}</span>
+</span></span><span style="display:flex;"><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f849c">2</span><span><span style="color:#89dceb;font-weight:bold">{{</span> partial <span style="color:#a6e3a1">&#34;math.html&#34;</span> . <span style="color:#89dceb;font-weight:bold">}}</span>
+</span></span><span style="display:flex;"><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f849c">3</span><span><span style="color:#89dceb;font-weight:bold">{{</span> end <span style="color:#89dceb;font-weight:bold">}}</span></span></span></code></pre></div>
+<ul>
+<li>To enable KaTex globally set the parameter <code>math</code> to <code>true</code> in a project&rsquo;s configuration</li>
+<li>To enable KaTex on a per page basis include the parameter <code>math: true</code> in content files</li>
+</ul>
+<p><strong>Note:</strong> Use the online reference of <a href="https://katex.org/docs/supported.html">Supported TeX Functions</a></p>
+
+<h3 id="examples">Examples</h3>
+
+<p>Block math:
+$$
+\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
+$$</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
