@@ -1,5 +1,22 @@
 +++
-title = 'Some Thoungs About HealthcareIT'
+title = 'Some Thoughts About HealthcareIT'
 date = 2024-04-02T08:52:35+08:00
 draft = true
 +++
+
+- 如何创造和AI结合的适用于医疗信息化的产品？
+- 医疗行业的公司类型及其发展
+- 医利捷的实践和体会
+- 从应用领域来看的结合点
+  - EMR文书解析
+    - 省立医院（OCR/NLP/后结构化）
+    - 科研数据处理。eg.同仁（手工规则引擎处理需要二次加工的字段，并将其标签化）
+    - 互联互通共享文档所需的结构化病历文书数据
+    - 专科电子病历。检查报告的结构化解析，用以根据指南决策后续的治疗方案。eg.根据影像报告解析肿瘤病理分期
+  - 分析影像图片，给出报告的建议
+    - LIDC-IDRI (The Lung Image Database Consortium)，该数据集由胸部医学图像文件(如CT、X光片)和对应的诊断结果病变标注组成。该数据是由美国国家癌症研究所(National Cancer Institute)发起收集的，目的是为了研究高危人群早期癌症检测。
+    - 标注后的数据集 —— LUng Nodule Analysis 2016 (LUNA16)
+  - 数据质控
+    - 数据传输过程
+  - 隐私计算/规则抽取
+    - 三、四期临床试验的受试者筛选
